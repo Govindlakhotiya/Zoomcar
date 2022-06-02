@@ -5,7 +5,7 @@ Hi reader!✌️
 We are creating this blog to share our experience of our first project as part of construct week at Masai School. The project assigned to our group was a clone of Zoomcar, which is India’s first and largest online self-drive car rental company
 
 
-Our team consists of 5 people including Me, Pankaj Kumar, Aditi Hinge, Govind Lakhotiya, and Rav Chandan Kumar.
+Our team consists of 5 people including Me, Pankaj Kumar, Aditi Hinge, Adarsh Khandare, and Rav Chandan Kumar.
 
 # **Our Expectations**
 We are expecting to create a pixel-perfect cloned site of the Zoomcar website, with all its pages, giving proper HTML, CSS properties, using DOM concepts with respect to the official Zoomcar website, and also demonstrating a basic flow of booking a car, where a customer can view the car, filter them as per their requirements, read about specification, start his or her happy journey😊.
